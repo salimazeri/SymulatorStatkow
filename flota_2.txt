@@ -1,0 +1,25 @@
+﻿skrót ilość
+
+mt 100
+dt 100
+
+lm 100
+
+cm 0
+
+kr 0
+
+ow 0
+
+sk 0
+
+re 0
+
+ss 0
+
+b 0
+
+n 0
+
+gs 0
+p 0
